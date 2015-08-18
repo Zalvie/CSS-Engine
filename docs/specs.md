@@ -1,6 +1,7 @@
-**This is not pushed yet**
 
-**Max stylesheet size:** 10,000 characters [i]'ish[/i]
+**Version:** 2.8
+
+**Max stylesheet size:** 10,000 characters 
 
 * Nesting
   ```CSS
